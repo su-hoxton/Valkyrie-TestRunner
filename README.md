@@ -18,7 +18,7 @@ Script para correr de forma sencilla los tests del curso IIC2133
 -- valkyrie.config
 ```
 
-1.2 Ubica la carpeta con los tests en el mismo directorio que el script
+Asegurate también que la carpeta con los tests se encuentra en este mismo directorio, o bien especifica su path en ```valkyrie.config```
 
 1.3 Luego para darle permiso de ejecución al script corre el siguiente comando:
 ```bash
