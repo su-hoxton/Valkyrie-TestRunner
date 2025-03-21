@@ -2,9 +2,21 @@
 Script para correr de forma sencilla los tests del curso IIC2133
 
 ## 1. Setup
-1.1 Primero descarga el script con su archivo .config, y ubica ambos donde se encuentra el ```Makefile``` de tu repositorio. En mi caso esto se ve de la siguiente forma:
+1.1 Primero descarga el script con su archivo .config, y ubica ambos donde se encuentra el ```Makefile``` de tu repositorio. En mi caso el directorio se ve de la siguiente forma:
 
-[Insertar imagen]
+```
+-- src
+-- Tests
+    |-- cardjitsu
+    |-- puffle
+-- Makefile
+-- input.txt
+-- output.txt
+-- cardjistu
+-- puffle
+-- valkyrie.sh
+-- valkyrie.config
+```
 
 1.2 Ubica la carpeta con los tests en el mismo directorio que el script
 
