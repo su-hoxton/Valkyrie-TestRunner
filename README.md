@@ -1,5 +1,6 @@
 # Valkyrie-TestRunner
-Script para correr de forma sencilla los tests del curso IIC2133
+
+### DISCLAIMER: este no es un script oficial del ramo. Y no me responsabilizo por ningún tipo de daño o pérdida que la que se pueda incurrir mediante su uso.
 
 ## 1. Setup
 1.1 Primero descarga el script con su archivo .config, y ubica ambos donde se encuentra el ```Makefile``` de tu repositorio. En mi caso el directorio se ve de la siguiente forma:
