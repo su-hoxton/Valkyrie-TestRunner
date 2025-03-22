@@ -44,3 +44,17 @@ Para correr los tests utiliza el siguiente comando
 ```bash
 ./valkyrie.sh
 ```
+
+### 2.3 Flags opcionales
+
+#### Run single test
+Adicionalmente puedes hacer que el script evalúe un solo test del grupo. Por ejemplo si quisiera probar sólamente el test `hard-1` puedo agregar la siguiente flag:
+```bash
+./valkyrie.sh --test hard-1
+```
+
+#### Run single test & show diff
+Si quieres que el script también muestre en qué difieren las lineas de tu output con el output esperado del test puedes agregar la siguiente flag adicional:
+```bash
+./valkyrie.sh --test hard-1 --showdiff
+```
